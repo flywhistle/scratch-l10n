@@ -518,5 +518,15 @@
     "gui.libraryTags.game.penguinhome": "企鹅回家",
     "gui.libraryTags.game.movebricks": "翻砖块",
     "gui.libraryTags.game.magicfruits": "魔法水果",
-    "gui.libraryTags.game.carrace": "趣味赛车"
+    "gui.libraryTags.game.carrace": "趣味赛车",
+    "gui.libraryTags.game.elephantshoot": "大象打靶",
+    "gui.libraryTags.game.appletake": "接苹果",
+    "gui.libraryTags.game.arrowshoot": "射箭比赛",
+    "gui.libraryTags.game.cokiegrasp": "抓饼干",
+    "gui.libraryTags.game.appledefend": "守护苹果",
+    "gui.libraryTags.game.balloonhit": "打气球",
+    "gui.libraryTags.game.chirsgiftcollect": "收集圣诞礼物",
+    "gui.libraryTags.game.defendplayground": "保卫游乐园",
+    "gui.libraryTags.game.teachervisit": "登高拜师",
+    "gui.libraryTags.game.turretsoldier": "炮塔勇士"
 }
