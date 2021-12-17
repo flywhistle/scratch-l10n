@@ -528,5 +528,9 @@
     "gui.libraryTags.game.chirsgiftcollect": "收集圣诞礼物",
     "gui.libraryTags.game.defendplayground": "保卫游乐园",
     "gui.libraryTags.game.teachervisit": "登高拜师",
-    "gui.libraryTags.game.turretsoldier": "炮塔勇士"
+    "gui.libraryTags.game.turretsoldier": "炮塔勇士",
+    "gui.libraryTags.game.running": "跑步比赛",
+    "gui.libraryTags.game.clawdoll": "趣味抓娃娃",
+    "gui.libraryTags.game.picfruits": "摘果子",
+    "gui.libraryTags.game.pigshoots": "小猪打针"
 }
