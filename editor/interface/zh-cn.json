@@ -501,8 +501,9 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "Scratch作品",
-    "gui.libraryTags.origin": "通用",
-    "gui.libraryTags.game.game": "游戏",
+    "gui.libraryTags.origin": "基础",
+    "gui.libraryTags.ext": "拓展",
+    "gui.libraryTags.game": "游戏",
     "gui.libraryTags.game.basketball": "梦幻投篮",
     "gui.libraryTags.game.animalgohome": "动物回家",
     "gui.libraryTags.game.minitank": "迷你坦克",
@@ -535,6 +536,12 @@
     "gui.libraryTags.game.chaseinsect": "捕昆虫",
     "gui.libraryTags.game.pigshoots": "小猪打针",
     "gui.libraryTags.game.success": "成功",
-    "gui.libraryTags.game.failure": "失败"
+    "gui.libraryTags.game.failure": "失败",
+    "gui.libraryTags.ext.animals": "动物",
+    "gui.libraryTags.ext.people": "人物",
+    "gui.libraryTags.ext.food": "食物",
+    "gui.libraryTags.ext.clothing": "服饰",
+    "gui.libraryTags.ext.music": "音乐",
+    "gui.libraryTags.ext.letter": "字母"
 
 }
