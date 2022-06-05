@@ -542,6 +542,9 @@
     "gui.libraryTags.ext.food": "食物",
     "gui.libraryTags.ext.clothing": "服饰",
     "gui.libraryTags.ext.music": "音乐",
-    "gui.libraryTags.ext.letter": "字母"
+    "gui.libraryTags.ext.letter": "字母",
+    "gui.libraryTags.ext.indoor": "室内",
+    "gui.libraryTags.ext.outdoor": "户外",
+    "gui.libraryTags.ext.underwater": "水下"
 
 }
